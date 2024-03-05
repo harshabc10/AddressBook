@@ -1,0 +1,14 @@
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.AssemblyInfoInputs.cache
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.AssemblyInfo.cs
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.csproj.CoreCompileInputs.cache
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\bin\Debug\net8.0\ForTestingApplications.exe
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\bin\Debug\net8.0\ForTestingApplications.deps.json
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\bin\Debug\net8.0\ForTestingApplications.runtimeconfig.json
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\bin\Debug\net8.0\ForTestingApplications.dll
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\bin\Debug\net8.0\ForTestingApplications.pdb
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.dll
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\refint\ForTestingApplications.dll
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.pdb
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ForTestingApplications.genruntimeconfig.cache
+D:\C#(LYTX)\ForTestingApplications\ForTestingApplications\obj\Debug\net8.0\ref\ForTestingApplications.dll
